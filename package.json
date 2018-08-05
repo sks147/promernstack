@@ -1,0 +1,17 @@
+{
+  "name": "mernstack",
+  "version": "1.0.0",
+  "description": "learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "learn"
+  ],
+  "author": "sks147",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
